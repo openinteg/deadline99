@@ -6,4 +6,5 @@
 
 # Links
 
-[Rules](https://deadline99.com/rules)
+- [Rules](https://deadline99.com/rules)
+- [Ninety-nine (addition card game) - Wikipedia](https://en.wikipedia.org/wiki/Ninety-nine_(addition_card_game))
